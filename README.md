@@ -2,8 +2,6 @@
 
 [![Texiri](https://user-images.githubusercontent.com/67729867/149855385-7e9981fc-e923-4183-9938-918706f568c4.JPG)](https://youtu.be/_D6587-r6NA "Texiri Demo")
 
-![intelligent-assistant](https://user-images.githubusercontent.com/67729867/147402490-0579e40c-a9b6-4ce4-8496-1de3bcf92950.png)
-
 ## Inspiration 
 The inspiration behind this project was to create an AI assistant that can be accessed through text messages and can be used both online and offline.
 
